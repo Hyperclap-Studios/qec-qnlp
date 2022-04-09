@@ -9,3 +9,10 @@ programmer writes code, hacker codes computer virus, 1
 hacker hacks mainframe, cook prepares dish, 0
 person codes program, developer writes code, 1
 developer writes function, chef steams vegetables, 0
+assistant cuts vegetables, cook prepares starters, 1
+programmer copies files, chef bakes potatoes, 0
+coder debugs ouput, programmer writes function, 1
+chef decorates dessert, hacker installs virus, 0
+developer downloads code, engineer reviews code, 1
+cook conceives new recipe, chef tries dinner, 1
+programmer writes documentation, cook cooks soup, 0

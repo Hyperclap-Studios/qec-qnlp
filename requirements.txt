@@ -2,3 +2,5 @@ lambeq
 jupyter
 pytket-qiskit
 matplotlib
+pytket
+discopy

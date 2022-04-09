@@ -2,7 +2,7 @@ from lambeq import BobcatParser
 from discopy import grammar
 
 if __name__ == '__main__':
-    sentence = 'He defecated through a sunroof'
+    sentence = 'What the dog doing'
 
     # Parse the sentence and convert it into a string diagram
     parser = BobcatParser()  # (GALLI TÜECHLI) will download Model so may take a while [1.5 GB]
@@ -10,3 +10,5 @@ if __name__ == '__main__':
     diagram = parser.sentence2diagram(sentence)
 
     grammar.draw(diagram, figsize=(14, 3), fontsize=12)
+
+    print("Done")

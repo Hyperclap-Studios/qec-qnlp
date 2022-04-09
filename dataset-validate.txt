@@ -30,3 +30,4 @@ experienced cook creates dish, programmer writes code, 0
 skilful programmer writes advanced code, skilful cook prepares meal, 0
 programmer creates code, chef creates dish, 0
 hacker creates code, chef prepares dish, 0
+skilful programmer creates complicated code, programmer writes complicated code, 1

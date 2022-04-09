@@ -2,4 +2,5 @@
 
 ## Dependencies
 
-``pip install lambeq``
+* ``pip install lambeq``
+* caffeine

@@ -1,1 +1,11 @@
-
+programmer reviews code, hacker searches files, 1
+cook prepares beef wellington, programmer debugs code, 0
+chef uses olive oil, programmer codes algorithm, 0
+cook prepares vegetables, chef cooks dish, 1
+hacker codes exploit, programmer searches for bug, 1
+cook makes soup, programmer deletes files, 0
+cook cuts carrots, chef sharpens knife, 1
+programmer writes code, hacker codes computer virus, 1
+hacker hacks mainframe, cook prepares dish, 0
+person codes program, developer writes code, 1
+developer writes function, chef steams vegetables, 0

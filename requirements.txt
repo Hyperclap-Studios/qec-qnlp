@@ -4,3 +4,4 @@ pytket-qiskit
 matplotlib
 pytket
 discopy
+numpy
